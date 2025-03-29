@@ -1,7 +1,7 @@
 ## Sample Bug Report
 The attached PNG file is a sample Bug Report for an issue encountered in a mobile application using MantisBT.
 
-**(Some details are blurred for confidentiality.)**
+*Some details are blurred for confidentiality.)*
 
 Issue Summary:
 The reported issue is a failure to upload files within the mobile application.
