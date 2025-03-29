@@ -1,7 +1,5 @@
 # Software Testing Portfolio  
 
-Below are my sample RTM, Test Cases/Scenarios, and Bug Report Example.
-
 ## 📌 About This Repository  
 This repository showcases my software testing documents, including:  
 - **Requirement Traceability Matrix (RTM)** – Mapping requirements to test cases.  
